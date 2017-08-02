@@ -1,0 +1,11 @@
+{
+  "name": "messenger-bar",
+  "version": "1.0.0",
+  "description": "Facebook Messenger in the menu bar rather than the browser or desktop app.",
+  "main": "index.js",
+  "author": "Christopher McMorran",
+  "license": "MIT",
+  "dependencies": {
+    "menubar": "^5.2.3"
+  }
+}
